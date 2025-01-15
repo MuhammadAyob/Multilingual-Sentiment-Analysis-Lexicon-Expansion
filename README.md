@@ -58,3 +58,10 @@ South Africa's linguistic diversity presents unique challenges for sentiment ana
    ```bash
    git clone https://github.com/MuhammadAyob/Multilingual-Sentiment-Analysis-Lexicon-Expansion.git
    cd multilingual-sentiment-analysis
+   
+## Conclusion
+
+This study demonstrates the feasibility of building multilingual sentiment analysis tools for underrepresented languages. The results emphasize the importance of robust models, balanced datasets, and culturally aware lexicons for effective sentiment classification in diverse linguistic environments.
+
+## NB. Usage
+This repository is intended for demonstration purposes only. The code is not licensed for public use, reproduction, or distribution without explicit permission from the author.
